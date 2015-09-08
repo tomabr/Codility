@@ -23,3 +23,10 @@ Task:
 
 Answer:https://github.com/tomabr/Codility/blob/master/codility2-2.js
 
+Task:
+
+Answer:https://github.com/tomabr/Codility/blob/master/codility2-3.js
+
+Task:
+
+Answer::https://github.com/tomabr/Codility/blob/master/codility2-4.js
