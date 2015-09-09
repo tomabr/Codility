@@ -4,7 +4,6 @@ function solution(a) {
     var i, l=a.length;
     var arr=[];
     a.sort();
-    console.log(a);
     for(i=0; i<l; i=i+1){
            if(i+1 != a[i])
              return 0;
